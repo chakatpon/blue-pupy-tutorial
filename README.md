@@ -19,5 +19,6 @@ $ npm run dev
 
 ```sh
 - `STEP1` : React, ReactDOM and webpack.
+- `STEP2` : BrowserRouter, Switch, Route and Link from react-router-dom
 
 ```
